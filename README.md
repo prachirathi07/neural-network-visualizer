@@ -51,7 +51,3 @@ Builds the app for production to the `build` folder, optimizing it for the best 
 1. Run `npm start` to launch the application.
 2. Upload your dataset and configure the neural network parameters.
 3. Train the model and visualize forward/backward propagation.
-
----
-
-Feel free to adjust any sections as needed!
